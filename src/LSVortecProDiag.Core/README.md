@@ -1,3 +1,1 @@
-# LSVortecProDiag.Core
-
-This directory contains the core functionality and business logic for the LS‑VortecProDiag project. It will host fundamental classes, data models, services, and other core components that are platform- and UI-agnostic, forming the backbone of the application.
+Core logic for LS‑Vortec ProDiag, including device adapters, CAN/UDS/ISO‑TP layers, GM modules, and utilities.
